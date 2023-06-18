@@ -1,7 +1,7 @@
 # logdirect
 Source code for paper "LogDirect: A Novel PMR-Based Data Persisting Path for Key-Value Stores with Low Latency and Strong Durability"
 
-The code repository contains two main folders:
+The code repository contains three main folders:
 - `logdirect/`, it contains code for the evaluation of different remote data persistent paths.
 - `logdirectaccess/`, it contains code for the evaluation of different accessing stacks for KVStores.
 - `redis/`, it contains code for Redis codebase and evaluation scripts of Redis-AOF.
